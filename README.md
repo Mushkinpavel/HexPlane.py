@@ -1,2 +1,0 @@
-# HexPlane.py
-Hexplane.py
